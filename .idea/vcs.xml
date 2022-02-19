@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/aum-common-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aum-server-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aum-server-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aum-services" vcs="Git" />
+  </component>
+</project>
